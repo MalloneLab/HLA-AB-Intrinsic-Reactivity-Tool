@@ -67,7 +67,7 @@ The application is developed in **R** and relies on the following packages:
 
 ### Availability
 
-The application is available as an interactive web tool:  
+The application is available as an interactive, ready to use, web tool:  
 https://mallonelabimmunotools.shinyapps.io/hla_unspecificity_app/
 The full source code and required data are available in this repository.
 
@@ -82,7 +82,10 @@ All outputs should be interpreted within the appropriate clinical context.
 ## Download and run locally
 
 
-Click **Code → Download ZIP** on GitHub  
+Click **Code → Download ZIP** on GitHub. 
+On a standard desktop computer, installation of required R packages takes approximately 2–5 minutes. 
+Once dependencies are installed, the application launches within seconds.
+
 or clone:
 
 ```bash
