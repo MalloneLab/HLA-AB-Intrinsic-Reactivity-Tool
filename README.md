@@ -64,16 +64,13 @@ To use the *Query Single Fusion Assignment* & *Multiple Patient Reports* workflo
 The application is developed in **R** and relies on the following packages:  
 *shiny, bslib, dplyr, ggplot2, openxlsx, readr, DT, stringr*
 
----
 
 ### Availability
 
 The application is available as an interactive web tool:  
 https://mallonelabimmunotools.shinyapps.io/hla_unspecificity_app/
-
 The full source code and required data are available in this repository.
 
----
 
 ### Limitations
 
